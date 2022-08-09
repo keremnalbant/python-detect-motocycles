@@ -1,5 +1,5 @@
 # Motocycle Detector
-# This code is detecting motocycles based on deep learning from related video. 
+# This code is detecting motocycles based from related video. 
 Takes screenshot and logs console as min:sec of the video when it sees.
 >>Used libraries: OpenCV2 and yolov3.
 
